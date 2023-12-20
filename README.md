@@ -1,4 +1,4 @@
-# inotebook : this project is made with help of yt series
+# Tasktrek
 
 using technologies:
 
